@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamgupta5555&label=Profile%20views&color=0e75b6&style=flat" alt="shyamgupta5555" /> </p>
 
-- 🌱 I’m currently learning **javascript ,nodejs ,mongodb , mysql ,express ,jwt , aws ,redis**
-
-- 💬 Ask me about **react**
+- 🌱 I’m currently learning **javascript ,nodejs ,express ,mongodb, mysql  ,jwt , aws ,redis**
 
 - 📫 How to reach me **shyamgupta0214@gmail.com**
 
